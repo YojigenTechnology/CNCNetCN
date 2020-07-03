@@ -1,2 +1,15 @@
-!Yuri Theme/MainMenu.ini
+#ignore all files
+*
+#keep CNCNetCN files
 !GameOptions.ini
+
+!德国icon.png
+!尤里icon.png
+!法国icon.png
+!古巴icon.png
+!韩国icon.png
+!利比亚icon.png
+!美国icon.png
+!苏俄icon.png
+!伊拉克icon.png
+!英国icon.png
