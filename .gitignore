@@ -1,11 +1,15 @@
 #ignore all files
-*
+*.*
+*/*.*
+Client/
+version
 
 #keep git files
 !README.md
 !LICENSE
 
 #keep CNCNetCN files
+!Resources/Yuri Theme/MainMenu.ini
 !Resources/GameOptions.ini
 
 !Resources/德国icon.png
