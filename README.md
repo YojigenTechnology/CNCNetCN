@@ -1,1 +1,1 @@
-# CNCNetCN
+# CnCNetCN

@@ -1,7 +1,6 @@
 #ignore all files
 *.*
-*/*.*
-Client/
+Client
 version
 
 #keep git files
@@ -9,8 +8,15 @@ version
 !LICENSE
 
 #keep CNCNetCN files
-!Resources/Yuri Theme/MainMenu.ini
+!Resources/
+!Resources/Binaries
+
 !Resources/GameOptions.ini
+!Resources/CnCNetLobby.ini
+!Resources/ClientDefinitions.ini
+!Resources/MultiplayerGameLobby.ini
+
+!Resources/Yuri Theme/MainMenu.ini
 
 !Resources/德国icon.png
 !Resources/尤里icon.png
@@ -22,3 +28,9 @@ version
 !Resources/苏俄icon.png
 !Resources/伊拉克icon.png
 !Resources/英国icon.png
+
+!Resources/Binaries/Windows/ClientCore.dll
+!Resources/Binaries/Windows/ClientGUI.dll
+!Resources/Binaries/Windows/DTAConfig.dll
+
+!Resources/clientdx.exe
