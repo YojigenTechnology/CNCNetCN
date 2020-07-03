@@ -1,15 +1,20 @@
 #ignore all files
 *
-#keep CNCNetCN files
-!GameOptions.ini
 
-!德国icon.png
-!尤里icon.png
-!法国icon.png
-!古巴icon.png
-!韩国icon.png
-!利比亚icon.png
-!美国icon.png
-!苏俄icon.png
-!伊拉克icon.png
-!英国icon.png
+#keep git files
+!README.md
+!LICENSE
+
+#keep CNCNetCN files
+!Resources/GameOptions.ini
+
+!Resources/德国icon.png
+!Resources/尤里icon.png
+!Resources/法国icon.png
+!Resources/古巴icon.png
+!Resources/韩国icon.png
+!Resources/利比亚icon.png
+!Resources/美国icon.png
+!Resources/苏俄icon.png
+!Resources/伊拉克icon.png
+!Resources/英国icon.png
