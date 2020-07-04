@@ -37,3 +37,9 @@ version
 !Resources/Binaries/Windows/DTAConfig.dll
 
 !Resources/clientdx.exe
+
+!Resources/SpriteFont0.xnb
+!Resources/SpriteFont1.xnb
+!Resources/SpriteFont2.xnb
+!Resources/SpriteFont3.xnb
+!Resources/SpriteFont4.xnb
